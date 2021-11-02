@@ -23,16 +23,18 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 ### Results with detail analysis:
 **1. Total Votes in the election**
 
-<-------------------------------TotalVotesintheelection.PNG------------------>
+![Total Votes in the election](https://user-images.githubusercontent.com/83256206/139918868-b52573be-5845-438d-adde-1d44ea0beb3f.PNG)
+
 
 **2. Each candidate’s total votes and percentage of votes.**
 
-<--------------------------Eachcandidates'stotalvotesandpercentageofvotes.PNG------------------------>
+![Total Votes in the election saved  in the election_results txt file](https://user-images.githubusercontent.com/83256206/139918912-061f8a62-2719-4de7-b1ee-30ba86caa5d0.PNG)
+
 
 **3. The winner of the election, winning vote count, and winning percentage of votes.**
 
+![The winner of the election, winning vote count, and winning percentage](https://user-images.githubusercontent.com/83256206/139919013-f4c133db-2763-4fdd-bc14-f000ed803e9f.PNG)
 
-<--------------------------Thewinneroftheelectionwinningvotecountandwinningpercentage.PNG---------------------------->
 
 ### Deliverable 1b: County Results
 ### Deliverable Requirements:
@@ -44,12 +46,13 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 
 **1. Each county with its total vote count and percentage.**
 
-<------------------------------Eachcountywithitstotalvotecountandpercentage.PNG---------------------------------->
+![Each county with  its total vote count and percentage](https://user-images.githubusercontent.com/83256206/139919732-1ca1b4d7-7d21-42f8-9722-2dc9266706d6.PNG)
+
 
 
 **3. The county with the largest number of voters is printed to the terminal.**
 
-<-------------------------------Thecountywiththelargestnumberofvoters.PNG---------------------------------->
+![The county with the largest number of voters ](https://user-images.githubusercontent.com/83256206/139919379-da9e1157-4b9e-4e3d-9c96-3835c5c406b4.PNG)
 
 
 ## Deliverable 2: Election Candidate Results Saved to a Text File
@@ -63,7 +66,8 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 
 ## Election County Results Saved to a Text File
 
-<------------------------------TotalVotesintheelectionsavedintheelection_results.txtfile.PNG------------------->
+![Total Votes in the election saved  in the election_results txt file](https://user-images.githubusercontent.com/83256206/139919512-8629eb65-77dd-4a5f-a10c-406fcf9e681f.PNG)
+
 
 
 
